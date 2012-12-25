@@ -8,3 +8,6 @@
 * Copy app/views/kaminari into your Corresponding folder
 * Done
 * [More](https://github.com/amatsuda/kaminari#customizing-the-pagination-helper)
+
+- - -
+[Same thing](https://github.com/amatsuda/kaminari_themes/tree/master/bootstrap) to do these
